@@ -24,6 +24,5 @@ public class Validator {
                     .collect(Collectors.toSet());
         }
         return Collections.emptySet();
-
     }
 }
